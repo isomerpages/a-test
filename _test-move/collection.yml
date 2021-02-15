@@ -1,0 +1,5 @@
+collections:
+  test-move:
+    output: true
+    order:
+      - title-test.md

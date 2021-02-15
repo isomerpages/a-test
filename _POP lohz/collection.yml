@@ -1,0 +1,5 @@
+collections:
+  POP lohz:
+    output: true
+    order:
+      - testz.md
