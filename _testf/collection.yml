@@ -1,0 +1,4 @@
+collections:
+  testf:
+    output: true
+    order: []
