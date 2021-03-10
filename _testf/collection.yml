@@ -1,4 +1,5 @@
 collections:
   testf:
     output: true
-    order: []
+    order:
+      - titles.md
