@@ -31,6 +31,8 @@ collections:
     output: true
   test-space-move-collection:
     output: true
+  test-new:
+    output: true
 permalink: none
 baseurl: ''
 exclude:
