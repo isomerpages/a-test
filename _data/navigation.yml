@@ -31,3 +31,5 @@ links:
     collection: test-space-move-collection
   - title: Testf
     collection: testf
+  - title: Test New
+    collection: test-new
